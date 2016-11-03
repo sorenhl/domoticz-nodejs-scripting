@@ -1,9 +1,10 @@
 {
-  "name": "dinohomecontroller",
+  "name": "domoticz-nodejs-scripting",
   "version": "0.1.0",
   "description": "Creates a nodes environment that eases scripting towards domoticz",
   "main": "app.js",
   "dependencies": {
+    
   },
   "devDependencies": {},
   "scripts": {

@@ -1,5 +1,6 @@
 {
   "globalDependencies": {
+    "mqtt": "registry:dt/mqtt#0.0.0+20160317120654",
     "node": "registry:dt/node#6.0.0+20161014191813"
   },
   "dependencies": {

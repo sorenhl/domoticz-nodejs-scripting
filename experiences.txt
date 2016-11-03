@@ -1,0 +1,4 @@
+dtype = "Lightning 2", stype = "AC"
+nvalue = 0: turned of
+nvalue = 1: turned on
+nvalue = 2: svalue1 = dimmer value from "0" to "15"
